@@ -1,0 +1,2 @@
+- Hi! I am Mercury :) I am interested in learning how to use Unity, Xcode, C#, SwiftUI and general game development.
+- If you would like to collab, email me at mercury2618@gmail.com; all tips and tricks are appreciated too!
